@@ -25,7 +25,7 @@
 * [Schedul](https://www.schedulethreads.com/) - Threads Content Publishing & Scheduling
 * [PixelHunter](https://pixelhunter.io/) or [⁠Dropmatico](https://dropmatico.com/app) - Social Media Image Resizer
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
-
+* [ThreadsDo](https://threadsdo.com/) - Free browser-based Threads video downloader, no login, works on mobile, 27 languages.
 ***
 
 # ► Discord Tools
